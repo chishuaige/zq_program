@@ -1,0 +1,18 @@
+# 基于 基础镜像
+FROM python:3.9
+
+# 将构建环境下的文件或者目录, 复制到镜像中的/code目录下,
+ADD . /code
+
+# 设置/切换 当前工作目录 为 /code
+WORKDIR /code
+
+
+# 安装python环境支持(针对python项目)
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 暴露出外界访问容器的端口
+EXPOSE 5050
+
+# 假设main.py是项目启动入口,
+CMD ["python", "z_flask_server.py"]

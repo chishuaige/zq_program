@@ -1,0 +1,78 @@
+$& x-line - [Pit_TotalToeFlandF2.dg]
+文件(File) 编辑 (Edit) 画图(Draw)
+目标(Object）浏览(View）工具(Tools）窗口(Window）帮助(Help)
+2024-04-28 09:47:59
+Vin
+RA152497
+车辆代码
+56c
+用户级别
+中国重汽
+DURR
+SINOTRUK
+自动
+类型：
+6x2(2)
+轴排序:
+F1,F2,D1
+truck_d L1
+F1,F2轴
+方向盘水平仪
+-0.6
+Tol-
+-5.0
+Nom
+0.0
++|01
+5.0
+F1轴
+F2轴
+前束和
+3.12
+[mm/m]
+前束和
+1.98
+[mm/m]
+Tol-
+0.5
+Nom 2.3
+Tol+
+4.0
+Tol-
+0.5
+Nom 2.3
+Tol+
+4.0
+平行度
+-6.21
+[mm/m]
+F1-F2
+平行度
+19.50
+[mm/m]
+Tol-
+-1.5
+Nom
+0.0
+Tol+
+1.5
+Tol-
+-1.5
+Nom
+0.0
++]01
+1.5
+状态：
+finish front axle adjustment with <END>
+步骤：
+4130
+F4: F4
+F5: F5
+F6
+8
+F9: Event Log
+F10:F10
+F11:F11
+F12: F12
+Ready
+Ln9999,Col9999

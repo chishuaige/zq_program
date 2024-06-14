@@ -1,0 +1,39 @@
+2024-05-22 15:36:54,940 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://10.2.82.101:8081
+2024-05-22 15:36:54,941 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 15:36:54,969 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-22 15:36:55,988 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-22 15:36:55,996 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 984-135-076
+2024-05-22 15:38:09,959 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8081
+ * Running on http://10.2.82.101:8081
+2024-05-22 15:38:09,960 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: [33mPress CTRL+C to quit[0m
+2024-05-22 15:38:10,003 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-22 15:38:11,973 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-22 15:38:11,984 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 984-135-076
+2024-05-22 15:38:53,082 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:38:53,083 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:38:53,083 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:38:53,084 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:38:53,573 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-22 15:38:55,008 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-22 15:38:55,016 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 984-135-076
+2024-05-22 15:38:55,080 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 10.2.82.101 - - [22/May/2024 15:38:55] "[31m[1mGET / HTTP/1.1[0m" 400 -
+2024-05-22 15:38:55,087 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\requests\\models.py', reloading
+2024-05-22 15:38:55,088 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\simplejson\\__init__.py', reloading
+2024-05-22 15:38:55,090 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\simplejson\\decoder.py', reloading
+2024-05-22 15:38:55,092 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'D:\\ProgramData\\Anaconda3\\envs\\py39\\Lib\\site-packages\\simplejson\\scanner.py', reloading
+2024-05-22 15:38:56,177 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-22 15:38:57,790 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-22 15:38:57,799 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 984-135-076
+2024-05-22 15:39:56,180 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:39:56,181 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:39:56,181 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:39:56,181 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Detected change in 'E:\\ÖØÆû´úÂë\\2024ËÄÂÖ¶¨Î»ÏîÄ¿\\z_test_flask.py', reloading
+2024-05-22 15:39:56,612 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Restarting with watchdog (windowsapi)
+2024-05-22 15:39:58,042 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - WARNING:  * Debugger is active!
+2024-05-22 15:39:58,051 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO:  * Debugger PIN: 984-135-076
+2024-05-22 15:39:58,116 - D:\ProgramData\Anaconda3\envs\py39\lib\site-packages\werkzeug\_internal.py[line:96] - INFO: 10.2.82.101 - - [22/May/2024 15:39:58] "[31m[1mGET / HTTP/1.1[0m" 400 -
